@@ -7,6 +7,19 @@ h6{
     font-size: 3em;
 }
 
+#div_vazia{
+    background-color:aquamarine;
+    width: 100cm;
+    height: 1cm;
+}
+
+#Cabeçalho_4{
+    background-color: aqua;
+    width: 5em;
+    height: 2em;
+}
+
+
 span{
     color:red;
     font-weight:bolder;
