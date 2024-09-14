@@ -1,0 +1,18 @@
+#cabecalho_rosa {
+    color: hotpink;
+    border-bottom: 10px dotted purple;
+}
+
+#Contact_Info {
+    font-style: italic;
+}
+
+#ul {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding: 25px;
+}
+
+a:hover {
+    color:green
+}
