@@ -39,3 +39,4 @@ pega_json("https://botafogo-atletas.mange.li/2024-1/all").then(
 console.log("Isso imprime antes");
 
 
+   
